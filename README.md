@@ -16,7 +16,7 @@ Proje kapsamında temel CRUD (Create, Read, Update, Delete) işlemlerini başar�
 • ID'ye göre müşteri arama 🔎 <br/>
 
 ## 📸 Ekran Görüntüleri: <br/>
-• UI ve kod parçalarını aşağıda görebilirsiniz: <br/>
+• UI ve kod parçalarını aşağıda görebilirsiniz: <br/> <br/>
 ![MongoDb](https://github.com/user-attachments/assets/77deb9ae-7f32-44e6-ba76-4c6a029f74a0) <br/>
 
 ## 💡 Öğrendiklerim: <br/>
